@@ -1,0 +1,27 @@
+{
+  "name": "256art-images",
+  "version": "1.0.0",
+  "description": "All the images for the 256ART series.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martibis/node256artimages.git"
+  },
+  "keywords": [
+    "256art",
+    "images"
+  ],
+  "author": "256ART",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Martibis/node256artimages/issues"
+  },
+  "homepage": "https://github.com/Martibis/node256artimages#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
